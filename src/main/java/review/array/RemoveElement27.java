@@ -1,7 +1,5 @@
 package review.array;
 
-
-
 public class RemoveElement27 {
 
     /**

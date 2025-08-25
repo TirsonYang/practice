@@ -20,6 +20,7 @@ package review.list.detectCycle142;
  */
 
 public class DetectCycle142 {
+    //TODO 未通过
     public ListNode detectCycle(ListNode head) {
         return null;
     }

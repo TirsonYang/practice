@@ -1,6 +1,5 @@
 package review.hashTable;
 
-import java.util.Arrays;
 
 /**
  * 给你两个字符串：ransomNote 和 magazine ，判断 ransomNote 能不能由 magazine 里面的字符构成。
